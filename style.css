@@ -1156,18 +1156,19 @@ p {
     font-weight: 500;
 }
 .card1img{
-    height: 200px;
-    width: 80%;
-    background-image: url(bg2.jpg);
+    height: 300px;
+    width: 100%;
+    background-image: url("graph.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
-    border-radius: 20px;
     margin: 20px auto;
+    border-radius: 20px;
 }
 
 .card2img{
     height: 300px;
     width: 100%;
-    background-image: url(bg3.jpeg);
+    background-image: url("in.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin: 20px auto;
@@ -1177,7 +1178,7 @@ p {
 .aboutus{
     display: flex;
     height: 600px;
-    background-image: url('img2.jpg');
+    background-image: url("graph.jpg");
 
 }
 .aboutcontentinside{
@@ -1199,7 +1200,7 @@ p {
 .contentimg{
     width: 90%;
     height: 90%;
-    background-image: url('imgg.jpg');
+    background-image: url('about.jpg');
     background-size: cover;
     border-radius: 30px;
 }
